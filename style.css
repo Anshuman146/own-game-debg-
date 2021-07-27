@@ -1,0 +1,51 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+ canvas{
+   display:block;
+   
+ }
+ .gameTitle{
+   width:85%;
+   height:490px;
+ }
+ .greeting{
+   font-size:40px;
+   color:white;
+   font-family:vollcorn;
+   text-align:centre;
+ }
+.customInput{
+  width:200px;
+  height:20px;
+  border:2px solid white;
+  border-radius:5px;
+  background-color:transparent;
+  font-size:20px;
+  outline:non;
+  color:white;
+  font-family:vollcorn;
+  text-align:center
+}
+.customButton{
+  width:120px;
+  height:90px;
+  background-color:green;
+  border:2px solid white;
+  color:#fff;
+  font-weight:bold;
+  border-radius:10px;
+  margin-bottom:100px;
+  text-align:center;
+  text-decoration:non;
+  display:inline-block;
+  font: size 60px;
+  font-family:vollcorn;
+  margin:4px 2px;
+  cursor:pointer;
+  transition-duration:0.4sec;
+  outline:non;
+
+
+}
